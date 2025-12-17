@@ -34,3 +34,4 @@ A simple CRUD Notes App built with the *MERN stack* (MongoDB, Express.js, React,
 
 ---
 📌 *Note:* This is a learning project I built to practice full-stack development.
+i am still working on it
