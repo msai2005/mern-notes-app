@@ -15,7 +15,7 @@ A simple CRUD Notes App built with the *MERN stack* (MongoDB, Express.js, React,
 - *Express.js* – Backend framework
 - *React.js* – Frontend
 - *Node.js* – Server environment
-- *Axios* – API communication
+- *restful API* – API communication
 
 ## Project Flow
 1. The frontend (React) allows users to add, view, edit, and delete notes.
